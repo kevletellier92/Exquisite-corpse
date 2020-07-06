@@ -1,2 +1,1 @@
-# E
-exquisite-corpse
+# exquisite-corpse
